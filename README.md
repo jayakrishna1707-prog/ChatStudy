@@ -143,9 +143,11 @@ client.close()
 
 ## Output:
 Server side 
-![alt text](server.png)
+<img width="1485" height="301" alt="image" src="https://github.com/user-attachments/assets/39e44679-51be-4480-926e-0f9b77c21225" />
+
 Client side
-![alt text](client.png)
+<img width="1409" height="202" alt="image" src="https://github.com/user-attachments/assets/06c6f11f-f5d2-475a-9adc-c94c7ed279da" />
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
